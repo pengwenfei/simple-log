@@ -4,7 +4,7 @@ a simple php+mysql blog system,it is very fast
 
 Install Steps
 
-1.Download the file and upload it to your website host
+1.Download the files and upload it to your website host
 
 2.Open http://yoururl/install.php
 
